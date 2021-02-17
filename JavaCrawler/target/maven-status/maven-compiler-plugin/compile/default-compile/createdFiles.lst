@@ -1,0 +1,4 @@
+client\Client.class
+compute\Compute.class
+server\Server.class
+compute\Task.class
